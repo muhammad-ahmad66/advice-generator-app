@@ -8,8 +8,8 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github code link](https://github.com/muhammad-ahmad66/advice-generator-app)
+- Live Site URL: [See live site URL here](https://obscene-balance.surge.sh/)
 
 ### Built with
 
